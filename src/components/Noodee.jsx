@@ -2,7 +2,7 @@ import React from 'react'
 
 const Noodee = () => {
   return (
-    <div className=" p-4 rounded-2xl shadow-2xl w-fit space-y-2 font-bold">
+    <div className=" bg-white p-4 rounded-2xl shadow-2xl w-90 space-y-2 font-bold">
       <img
         className=" rounded-2xl w-sm"
         src="/src/assets/noodee.jpg"

@@ -7,7 +7,7 @@ import Muping from "./components/Muping";
 const App = () => {
   return (
     <section className=" h-screen w-full">
-      <h1 className=" absolute top-24 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-3xl font-black">Member's group our group</h1>
+      <h1 className=" absolute top-24 shadow-10xl left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-3xl font-black">MEMBER'S GROUP OUR GROUP</h1>
       <div className="grid grid-cols-5 place-content-center w-full h-full p-4">
         <Muping />
         <Boon />

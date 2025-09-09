@@ -3,7 +3,7 @@ import React from 'react'
 
 const Boon = () => {
   return (
-    <div className=" p-4 rounded-2xl shadow-2xl w-fit space-y-2 font-bold">
+    <div className=" bg-white p-4 rounded-2xl shadow-2xl w-90 space-y-2 font-bold">
       <img
         className=" rounded-2xl w-sm"
         src="/src/assets/bun.jpg"
@@ -16,7 +16,7 @@ const Boon = () => {
         <p>
           Name : <span>Pawalit Thammavong</span>
         </p>
-        <p>"The secret to getting ahead is getting started."</p>
+        <p>"Just do it and don't look back."</p>
       </div>
     </div>
   );
